@@ -5,3 +5,6 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
+Berikut daftar volounteer yang diterima:
+1. Projects on Sunday [septaalfauzan.xyz](septaalfauzan.xyz)
+
